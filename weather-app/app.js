@@ -1,4 +1,4 @@
-const apiKey = '308111ac0516c2961282b1ce6d2141e9';
+const apiKey = 'hidden';
 const city = 'Delhi'; // or any city you want
 
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
